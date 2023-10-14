@@ -55,7 +55,6 @@ __all__ = [
     'Bard',
     'Bing',
     'ChatBase',
-    'ChatForAi',
     'Chatgpt4Online',
     'ChatgptAi',
     'ChatgptDemo',
