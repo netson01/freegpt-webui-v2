@@ -9,7 +9,6 @@ from .Provider   import (
     ChatgptDuo,
     Vitalentum,
     ChatgptAi,
-    ChatForAi,
     AItianhu,
     ChatBase,
     Liaobots,
