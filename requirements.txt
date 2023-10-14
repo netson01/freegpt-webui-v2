@@ -20,7 +20,6 @@ retrying
 mailgw_temporary_email
 pycryptodome
 random-password-generator
-tornado>=6.3.2 # pinned to avoid a vulnerability
 PyExecJS
 browser_cookie3
 js2py
